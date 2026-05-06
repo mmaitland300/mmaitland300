@@ -1,16 +1,26 @@
-## Hi there 👋
+# Matt Maitland
 
-<!--
-**mmaitland300/mmaitland300** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Technical support specialist building web tools, Python utilities, research prototypes, and audio software.
 
-Here are some ideas to get you started:
+I work on software through the same habits I use in technical support: isolate the failure, document the constraint, build the smallest useful system, and verify the result.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured work
+
+- **Portfolio / case studies** — Next.js site for public project writeups, resume content, contact flow, and proof links.
+- **Research Radar** — live prototype for explainable MIR/audio-ML paper ranking over a curated corpus, with proxy evaluation and experimental bridge diagnostics.
+- **Smart Project Backup** — Python CLI for incremental project backups using SHA-256 change detection, SQLite manifests, config defaults, and watch mode.
+- **Musicians Organizer** — PyQt desktop tool for local sample-library scanning, tagging, duplicate detection, audio-feature extraction, and similarity search.
+- **Snake Detector** — bounded image-classification demo with reproducible CLI, CI, placeholder-safe benchmark artifacts, and explicit dataset limits.
+
+## Current focus
+
+- Practical full-stack tools
+- Python workflow utilities
+- Research/data prototypes
+- Audio software and DSP documentation
+- Public proof through tests, CI, demos, screenshots, and clear limitations
+
+## Links
+
+- Portfolio: https://www.mmaitland.dev
+- Research Radar: https://radar.mmaitland.dev
