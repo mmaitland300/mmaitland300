@@ -20,6 +20,8 @@ I work on software through the same habits I use in technical support: isolate t
 - Audio software and DSP documentation
 - Public proof through tests, CI, demos, screenshots, and clear limitations
 
+StringFlux implementation is private while the plugin is in product development; public evidence lives in the portfolio case study and architecture notes.
+
 ## Links
 
 - Portfolio: https://www.mmaitland.dev
