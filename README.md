@@ -10,7 +10,7 @@ I work on software through the same habits I use in technical support: isolate t
 - **Research Radar** — live prototype for explainable MIR/audio-ML paper ranking over a curated corpus, with proxy evaluation and experimental bridge diagnostics.
 - **Smart Project Backup** — Python CLI for incremental project backups using SHA-256 change detection, SQLite manifests, config defaults, and watch mode.
 - **Musicians Organizer** — PyQt desktop tool for local sample-library scanning, tagging, duplicate detection, audio-feature extraction, and similarity search.
-- **Snake Detector** — bounded image-classification demo with reproducible CLI, CI, placeholder-safe benchmark artifacts, and explicit dataset limits.
+- **Snake Detector** — bounded snake/no-snake image-classification demo with a live iNaturalist-trained model, GitHub model release, reproducible CLI/CI, and explicit safety limits.
 
 ## Current focus
 
