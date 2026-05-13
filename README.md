@@ -6,11 +6,11 @@ I work on software through the same habits I use in technical support: isolate t
 
 ## Quick review path
 
-- [Portfolio / case studies](https://www.mmaitland.dev) - start here for project writeups, resume context, contact flow, and supporting links.
-- [Research Radar](https://radar.mmaitland.dev) - inspect the deployed prototype or run the [no-key fixture demo](https://github.com/mmaitland300/Research-Radar) for ranking/evaluation behavior.
-- [Smart Project Backup](https://github.com/mmaitland300/DAWBackup) - review the Python CLI, tests, CI, config, SHA-256 change detection, SQLite manifests, and watch mode.
-- [Snake Detector](https://github.com/mmaitland300/Snake-detector) - review the live demo, GitHub model release, reproducible CLI/CI path, and explicit safety limits.
-- StringFlux - public evidence only: [case study](https://www.mmaitland.dev/projects/stringflux), [architecture/decision notes](https://www.mmaitland.dev/blog/stringflux-oversampling-decision-log), [product page](https://www.mmaitland.dev/stringflux), validation boundary, and current limits; implementation source remains private.
+- **[Portfolio / case studies](https://www.mmaitland.dev)** - start here for project writeups, resume context, contact flow, and supporting links.
+- **Research Radar** - inspect the [live prototype](https://radar.mmaitland.dev) or the [source repo](https://github.com/mmaitland300/Research-Radar), including the no-key fixture demo and ranking/evaluation docs.
+- **[Smart Project Backup](https://github.com/mmaitland300/DAWBackup)** - review the Python CLI, tests, CI, config, SHA-256 change detection, SQLite manifests, and watch mode.
+- **[Snake Detector](https://github.com/mmaitland300/Snake-detector)** - review the live demo links, GitHub model release, reproducible CLI/CI path, and explicit safety limits.
+- **StringFlux** - public evidence only: [case study](https://www.mmaitland.dev/projects/stringflux), [product page](https://www.mmaitland.dev/stringflux), and [oversampling decision log](https://www.mmaitland.dev/blog/stringflux-oversampling-decision-log). Implementation source remains private.
 
 ## Featured work
 
