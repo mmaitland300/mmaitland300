@@ -1,8 +1,8 @@
-# Matt Maitland
+# Hi, I'm Matt Maitland
 
-Technical support specialist building web tools, Python utilities, research prototypes, and audio software.
+I'm a technical support specialist who builds practical web tools, Python utilities, research prototypes, and audio software.
 
-I work on software through the same habits I use in technical support: isolate the failure, document the constraint, build the smallest useful system, and verify the result.
+Most of my software work starts from the same habits I use in support: isolate the problem, name the constraint, build the smallest useful system, and verify the result.
 
 ## Quick review path
 
