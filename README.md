@@ -2,7 +2,7 @@
 
 I'm a technical support specialist who builds practical web tools, Python utilities, research prototypes, and audio software.
 
-Most of my software work starts from the same habits I use in support: isolate the problem, name the constraint, build the smallest useful system, and verify the result.
+Most of my projects start because I either want to understand something better by building it myself, or because I want a tool that does not quite exist the way I need it to. My support work still shapes how I build: I try to isolate the problem, keep the scope useful, and document what I checked and what is still open.
 
 ## Quick review path
 
