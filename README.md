@@ -1,4 +1,4 @@
-# Hi, I'm Matt Maitland
+# Matt Maitland
 
 I'm a technical support specialist who builds practical web tools, Python utilities, research prototypes, and audio software.
 
