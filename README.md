@@ -1,35 +1,25 @@
 # Matt Maitland
 
-I'm a technical support specialist who builds practical web tools, Python utilities, research prototypes, and audio software.
+I'm a technical support specialist who builds software for things I use, want to understand, or find interesting: project backups, audio-library organization, research-paper discovery, portfolio infrastructure, and audio/DSP experiments.
 
-Most of my projects start because I either want to understand something better by building it myself, or because I want a tool that does not exist quite the way I need it to. My support work shapes how I build: I try to isolate the problem, research my options, and document what I checked and what is still open.
+Most of my projects start because I want to understand something better by building it, or because the tool I need does not exist quite the way I want it to. My support work shapes how I build: isolate the problem, keep the scope useful, test the risky parts, and document what is still unfinished.
 
-## Quick review path
+## Start here
 
-- **[Portfolio / case studies](https://www.mmaitland.dev)** - start here for project writeups, resume context, contact flow, and supporting links.
-- **Research Radar** - inspect the [live prototype](https://radar.mmaitland.dev) or the [source repo](https://github.com/mmaitland300/Research-Radar), including the no-key fixture demo and ranking/evaluation docs.
-- **[Smart Project Backup](https://github.com/mmaitland300/DAWBackup)** - review the Python CLI, tests, CI, config, SHA-256 change detection, SQLite manifests, and watch mode.
-- **[Musicians Organizer](https://github.com/mmaitland300/musicians-organizer)** - review the local desktop workflow, screenshots, duplicate review, audio-feature inspection, and setup limits.
-- **[Snake Detector](https://github.com/mmaitland300/Snake-detector)** - review the live demo links, GitHub model release, reproducible CLI/CI path, and explicit safety limits.
-- **StringFlux** - public evidence only: [case study](https://www.mmaitland.dev/projects/stringflux), [product page](https://www.mmaitland.dev/stringflux), and [oversampling decision log](https://www.mmaitland.dev/blog/stringflux-oversampling-decision-log). Implementation source remains private.
-
-## Featured work
-
-- **Portfolio / case studies** - Next.js site for public project writeups, resume content, contact flow, and supporting links.
-- **Research Radar** - live prototype for explainable MIR/audio-ML paper ranking over a curated corpus, with proxy evaluation and experimental bridge diagnostics.
-- **Smart Project Backup** - Python CLI for incremental project backups using SHA-256 change detection, SQLite manifests, config defaults, and watch mode.
-- **Musicians Organizer** - PyQt desktop tool for local sample-library scanning, tagging, duplicate detection, audio-feature extraction, and similarity search.
-- **Snake Detector** - bounded snake/no-snake image-classification demo with a live iNaturalist-trained model, GitHub model release, reproducible CLI/CI, and explicit safety limits.
+- **[Portfolio / case studies](https://www.mmaitland.dev)** - project writeups, resume context, contact, and links to supporting work.
+- **[Research Radar](https://github.com/mmaitland300/Research-Radar)** - ranks MIR/audio-ML papers and shows why each result surfaced. Live app: [radar.mmaitland.dev](https://radar.mmaitland.dev).
+- **[Smart Project Backup](https://github.com/mmaitland300/DAWBackup)** - Python CLI for incremental project backups using SHA-256 hashing, SQLite manifests, config defaults, and watch mode.
+- **[Musicians Organizer](https://github.com/mmaitland300/musicians-organizer)** - local desktop app for scanning, tagging, previewing, and cleaning up large sample libraries.
+- **[Snake Detector](https://github.com/mmaitland300/Snake-detector)** - narrow snake/no-snake image-classification demo with public model notes and clear safety limits.
+- **StringFlux** - in-development JUCE/C++ granular delay and freeze plugin for guitar. Public pages cover the [case study](https://www.mmaitland.dev/projects/stringflux), [product page](https://www.mmaitland.dev/stringflux), and [oversampling decision log](https://www.mmaitland.dev/blog/stringflux-oversampling-decision-log); implementation source remains private while the plugin is in product development.
 
 ## Current focus
 
-- Practical full-stack tools
+- Full-stack tools and public project writeups
 - Python workflow utilities
-- Research/data prototypes
+- Research and data prototypes
 - Audio software and DSP documentation
-- Tests, CI, demos, screenshots, docs, and documented limitations
-
-StringFlux implementation is private while the plugin is in product development. Public evidence is limited to the [case study](https://www.mmaitland.dev/projects/stringflux), [product page](https://www.mmaitland.dev/stringflux), [architecture/decision notes](https://www.mmaitland.dev/blog/stringflux-oversampling-decision-log), validation boundary, and current limits.
+- Tests, CI, demos, screenshots, docs, and documented limits
 
 ## Links
 
