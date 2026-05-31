@@ -1,6 +1,6 @@
 # Matt Maitland
 
-I'm a technical support specialist who builds software for things I use, want to understand, or find interesting: project backups, audio-library organization, research-paper discovery, portfolio infrastructure, and audio/DSP experiments.
+I'm a tech support specialist building software for things I want to learn about, understand or need as a tool: project backups, audio-library organization, research-paper discovery, portfolio infrastructure, and audio/DSP experiments.
 
 Most of my projects start because I want to understand something better by building it, or because the tool I need does not exist quite the way I want it to. My support work shapes how I build: isolate the problem, keep the scope useful, test the risky parts, and document what is still unfinished.
 
